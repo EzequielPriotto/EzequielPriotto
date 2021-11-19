@@ -21,7 +21,7 @@
               \  __  /  \  /          ________________________________
                '.__.'    \/          /                                 \
                 |  |     /\         |     te acabas de encontrar       |
-                |  |    O  O        |    con el alien de la suerte!    |
+                |  |    O  O        |    con el alien Robertito!       |
                 ----    //         O \_________________________________/
                (    )  //        O
               (\\     //       o
