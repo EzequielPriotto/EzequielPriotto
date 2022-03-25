@@ -4,7 +4,7 @@
 - 📆 Estoy dentro del mundo de la programacion desde los 14 años, dia a dia aprendiendo nuevas cosas.
 - 📫 DondeEncontrarme(){ <br>
      Gmail = "wokreuztt@gmail.com" <br> 
-     Twitter = "https://twitter.com/lE7KEl" <br> 
+     Twitter = "https://twitter.com/9ZE7KE" <br> 
      Twitch = "https://www.twitch.tv/e7ke" <br> 
      Instagram = "https://www.instagram.com/ezequiel__55/" <br> 
      Youtube = "https://www.youtube.com/channel/UCSZQIch3d2b8WHFcLbD2nAA" <br>
