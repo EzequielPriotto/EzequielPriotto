@@ -10,7 +10,6 @@
      Youtube = "https://www.youtube.com/channel/UCSZQIch3d2b8WHFcLbD2nAA" <br>
 }
 
-<!---
               .-""""-.
              /        \
             /_        _\
@@ -35,4 +34,4 @@
        ||      \/  .\/      ||
                   . .
                  '.'.`
---->
+
