@@ -2,7 +2,7 @@
 ### Estoy interesado en el mundo del desarrollo web como tambien de los videojuegos.
 🟣 Me adentre en el mundo de la programacion a los 14 años, voy aprendiendo y mejorando mis habilidades como desarrollador dia a dia. <br>
 
- **const DondeEncontrarme() => {** <br/> 
+ **const DondeEncontrarme = () => {** <br/> 
         Email:  ["ezequielpriotto.dev@gmail.com"](ezequielpriotto.dev@gmail.com);  <br/> 
         Linkedin: ["ezequielpriotto"](https://www.linkedin.com/in/ezequielpriotto/);  <br/>
         Instagram: ["ezequiel__55"](https://www.instagram.com/ezequiel__55/);   <br/>
